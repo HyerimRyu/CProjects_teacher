@@ -1,0 +1,6 @@
+﻿  Getch.c
+d:\cprojects\getch\getch\getch.c(8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\cprojects\getch\getch\getch.c(10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  Getch.vcxproj -> D:\CProjects\Getch\Debug\Getch.exe
